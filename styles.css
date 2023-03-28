@@ -1,0 +1,18 @@
+* {
+    background-color: #1F2937;
+}
+
+.header-logo {
+    color: #F9FAF8;
+    font-family: "Hero", sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.links {
+    color: #E5E7EB;
+    font-family: "Hero", sans-serif;
+    font-size: 18px;
+    text-align: left;
+}
